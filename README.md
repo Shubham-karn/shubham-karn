@@ -4,6 +4,8 @@
 name: Shubham Karn
 located_in: Kathmandu, Nepal
 current_job: Full Stack Developer
+
+
 fields_of_interests:
   [
     "Web Development",
@@ -13,13 +15,16 @@ fields_of_interests:
     "AI Engineering",
     "DevOps",
   ]
+
+
 technical_background:
   [
     "Current - Software developer at Tirnu",
     "Assosiate - Data Science & Machine Learning in Python",
     "Intern - Web developer"
   ]
-  
+
+
 currently_learning: ["Kubernetes, Langchain and RAG"]
 hobbies: ["Gaming", "Cinema", "Travelling"]
 Experience: 5 Years overall
@@ -43,7 +48,7 @@ Experience: 5 Years overall
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="Postgresql" width="45" height="45"/>
 <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" alt="fastapi" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="45" height="45"/>
