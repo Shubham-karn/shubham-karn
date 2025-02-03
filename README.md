@@ -62,6 +62,10 @@ Experience: 5 Years overall
 
 <h2> 📈 &nbsp;My GitHub History!</h2>
 
+<br>
+<br>
+<br>
+
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-karn&show_icons=true&theme=dark&locale=en&layout=compact" alt="shubhamKarn" />
 </p>
