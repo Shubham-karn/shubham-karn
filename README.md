@@ -27,7 +27,7 @@ technical_background:
 
 currently_learning: ["Kubernetes, Langchain and RAG"]
 hobbies: ["Gaming", "Cinema", "Travelling"]
-Experience: 5 Years overall
+Experience: 3 Years overall
 ```
   
 ---  
