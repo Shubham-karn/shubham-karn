@@ -67,11 +67,12 @@ Experience: 3 Years overall
 <br>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shubham-karn&show_icons=true&theme=dark&locale=en&layout=compact" alt="shubhamKarn" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shubham-karn&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Sachin Sapkota GitHub stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-karn&layout=compact&hide_border=true&theme=transparent" alt="Top languages" height="170" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shubham-karn&theme=dark&locale=en" alt="Shubhamkarn" />
+  <img src="https://streak-stats.demolab.com?user=shubham-karn&hide_border=true&theme=transparent" alt="GitHub streak" />
 </p>
 
 <p align="left">
