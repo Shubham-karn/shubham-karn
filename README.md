@@ -21,7 +21,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-karn-37a1052b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="mailto:shubhamkarn164@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://github.com/shubham-karn"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio"/></a>
+  <a href="https://shubhamkarn.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio"/></a>
 </p>
 
 ---
