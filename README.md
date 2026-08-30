@@ -74,10 +74,12 @@ Full-stack developer at **Time Charge N GO** with three years of shipping real p
 
 ## Featured work
 
-- **[django_demo](https://github.com/Shubham-karn/django_demo)** — a Django app containerized and deployed to Azure with a GitHub Actions CI/CD pipeline
-- **[Node_js](https://github.com/Shubham-karn/Node_js)** — WebSocket backend for a real-time collaborative text editor
-- **[social_scrapper](https://github.com/Shubham-karn/social_scrapper)** — Python tooling for scraping social platforms
-- **[portfolio](https://github.com/Shubham-karn/portfolio)** — the code behind [shubhamkarn.com.np](https://shubhamkarn.com.np)
+- **[Fragebank](https://shubhamkarn.com.np/projects)** — full-stack exam-prep platform: timed MCQ tests with autosave, solution review, performance tracking, and JWT + passkey (WebAuthn) auth — a Next.js web app, Express API, and Flutter app
+- **[Nepshala](https://shubhamkarn.com.np/projects)** — EdTech platform with personalized learning materials, video lessons via Cloudflare Stream, notes, and model tests with progress insights — Django + Next.js, containerized behind Nginx
+- **[MyPocketLawyer](https://github.com/Shubham-karn/MyPocketLawyer-AI-Powered-Legal-Aid-Assistant)** — AI legal aid assistant for Nepali law: a RAG pipeline over the Constitution, Penal Code, and 10+ acts, answering with citations to the exact articles and clauses
+- **[Travya](https://github.com/Shubham-karn/Agentic-AI-Powered-Travel-Companion)** — agentic AI travel companion: a multi-agent system that plans itineraries, maps destinations in real time, and books trips conversationally
+- **[Apple Detector](https://github.com/Shubham-karn/Apple_detector)** — computer-vision service that counts, colour-grades, and rejects apples using a fine-tuned YOLO detector with a ResNet-18 spot classifier
+- **[Portfolio](https://github.com/Shubham-karn/portfolio)** — the code behind [shubhamkarn.com.np](https://shubhamkarn.com.np), built with Next.js and Tailwind CSS
 
 ## GitHub stats
 
