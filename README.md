@@ -1,128 +1,99 @@
-<!-- ====================== HEADER ====================== -->
-<a href="https://github.com/shubham-karn">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Shubham%20Karn&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Engineer%20%7C%20DevOps%20Enthusiast&descAlignY=58&descSize=18" alt="header"/>
-</a>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
+    <img src="assets/header-dark.svg" width="100%" alt="Shubham Karn — Full Stack Developer · AI Engineer · Kathmandu, Nepal">
+  </picture>
 
-<!-- ====================== TYPING INTRO ====================== -->
-<p align="center">
-  <a href="https://github.com/shubham-karn">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+from+Nepal+%F0%9F%87%B3%F0%9F%87%B5;Building+AI-powered+products+with+LLMs;Crafting+scalable+backends+%26+clean+UIs;Currently+exploring+Kubernetes+%26+RAG" alt="Typing SVG" />
-  </a>
-</p>
+  <p>
+    <a href="https://shubhamkarn.com.np"><b>Portfolio</b></a>
+    &nbsp;·&nbsp;
+    <a href="https://www.linkedin.com/in/shubham-karn-37a1052b3/"><b>LinkedIn</b></a>
+    &nbsp;·&nbsp;
+    <a href="mailto:shubhamkarn164@gmail.com"><b>Email</b></a>
+  </p>
+</div>
 
-<!-- ====================== SOCIAL / STATS BADGES ====================== -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shubham-karn&label=Profile%20Views&color=8B5CF6&style=for-the-badge" alt="profile views" />
-  <a href="https://github.com/shubham-karn?tab=followers">
-    <img src="https://img.shields.io/github/followers/shubham-karn?label=Followers&style=for-the-badge&color=6366F1" alt="followers" />
-  </a>
-</p>
+Full-stack developer at **Time Charge N GO** with three years of shipping real products. I spend most of my time building AI-powered applications end to end — LLM pipelines with LangChain and RAG behind the scenes, Django and FastAPI in the middle, React and Next.js up front.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/shubham-karn-37a1052b3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
-  <a href="mailto:shubhamkarn164@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
-  <a href="https://shubhamkarn.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white" alt="portfolio"/></a>
-</p>
+**Now:** going deeper on Kubernetes, LangGraph, and vector search&nbsp;&nbsp;·&nbsp;&nbsp;**Off the clock:** gaming, cinema, travelling
 
----
+## Stack
 
-<!-- ====================== ABOUT ME ====================== -->
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> &nbsp;About Me
+<table>
+  <tr>
+    <td><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,ts,js" height="36" alt="Python, TypeScript, JavaScript">
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI&nbsp;/&nbsp;LLM</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" height="36" alt="PyTorch, TensorFlow">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langchain.png" height="36" alt="LangChain">
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/langgraph.png" height="36" alt="LangGraph">
+      </picture>
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" height="36" alt="Hugging Face">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png">
+        <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/light/openai.png" height="36" alt="OpenAI">
+      </picture>
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="36" alt="Claude">
+      <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" height="36" alt="Gemini">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,graphql" height="36" alt="Django, FastAPI, Node.js, Express, GraphQL">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" height="36" alt="React, Next.js, Tailwind, HTML, CSS">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,elasticsearch" height="36" alt="PostgreSQL, MongoDB, MySQL, Redis, Elasticsearch">
+      <img src="https://avatars.githubusercontent.com/u/54333248?s=200&v=4" height="36" alt="Pinecone">
+      <img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" height="36" alt="Qdrant">
+    </td>
+  </tr>
+  <tr>
+    <td><b>Cloud&nbsp;&amp;&nbsp;DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,terraform,githubactions" height="36" alt="Docker, Kubernetes, AWS, Nginx, Terraform, GitHub Actions">
+    </td>
+  </tr>
+</table>
 
-<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" />
+## Featured work
 
-- 🔭 &nbsp;I'm a **Full Stack Developer** at **Time Charge N GO**, based in **Kathmandu, Nepal**
-- 🤖 &nbsp;I build **AI-powered applications** with **LLMs, LangChain & RAG**
-- 🌱 &nbsp;Currently leveling up on **Kubernetes, LangGraph & Vector Search**
-- 💡 &nbsp;Interests: `Web Dev` · `Data Science` · `ML` · `UI/UX` · `AI Engineering` · `DevOps`
-- 🧠 &nbsp;Associate in **Data Science & Machine Learning** with Python
-- ⚡ &nbsp;**3 years** of experience shipping real products
-- 🎮 &nbsp;When AFK: **Gaming**, **Cinema** & **Travelling**
+- **[django_demo](https://github.com/Shubham-karn/django_demo)** — a Django app containerized and deployed to Azure with a GitHub Actions CI/CD pipeline
+- **[Node_js](https://github.com/Shubham-karn/Node_js)** — WebSocket backend for a real-time collaborative text editor
+- **[social_scrapper](https://github.com/Shubham-karn/social_scrapper)** — Python tooling for scraping social platforms
+- **[portfolio](https://github.com/Shubham-karn/portfolio)** — the code behind [shubhamkarn.com.np](https://shubhamkarn.com.np)
 
-<br clear="right"/>
+## GitHub stats
 
----
-
-<!-- ====================== TECH STACK (skillicons - modern) ====================== -->
-## 🛠️ &nbsp;Tech Stack
-
-<p align="center"><b>Languages</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,ts" alt="languages" />
-</p>
-
-<p align="center"><b>AI / LLM Engineering</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" alt="ai" />
-  &nbsp;
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/openai.png" width="48" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/gemini-color.png" width="48" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" width="48" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain-color.png" width="48" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph-color.png" width="48" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/huggingface-color.png" width="48" />
-</p>
-
-<p align="center"><b>Backend & APIs</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express,graphql" alt="backend" />
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/celery.svg" width="48" />
-</p>
-
-<p align="center"><b>Frontend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css" alt="frontend" />
-</p>
-
-<p align="center"><b>Databases & Vector Stores</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,elasticsearch" alt="databases" />
-  &nbsp;
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/pinecone-color.png" width="48" />
-  <img src="https://avatars.githubusercontent.com/u/73504361?s=200&v=4" width="48" style="border-radius:12px" />
-</p>
-
-<p align="center"><b>Cloud & DevOps</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,terraform,githubactions" alt="devops" />
-</p>
-
-<p align="center"><b>Tools & Platforms</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,git,bash,postman,figma" alt="tools" />
-</p>
-
----
-
-<!-- ====================== GITHUB STATS ====================== -->
-## 📊 &nbsp;GitHub Analytics
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shubham-karn&show_icons=true&count_private=true&hide_border=true&rank_icon=github&title_color=8B5CF6&icon_color=EC4899&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-karn&layout=compact&hide_border=true&langs_count=8&title_color=8B5CF6&text_color=c9d1d9&bg_color=0d1117" alt="top langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shubham-karn&hide_border=true&background=0d1117&stroke=8B5CF6&ring=EC4899&fire=EC4899&currStreakLabel=8B5CF6&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak" />
-</p>
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shubham-karn&theme=algolia&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophies" />
-</p> -->
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shubham-karn&bg_color=0d1117&color=8B5CF6&line=EC4899&point=ffffff&area=true&hide_border=true" alt="activity graph" width="100%" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=shubham-karn&hide_border=true&background=00000000&ring=8B5CF6&fire=EC4899&currStreakNum=E6EDF3&currStreakLabel=8B5CF6&sideNums=E6EDF3&sideLabels=9198A1&dates=8B949E&stroke=00000000">
+    <img src="https://streak-stats.demolab.com?user=shubham-karn&hide_border=true&background=00000000&ring=7C3AED&fire=DB2777&currStreakNum=1F2328&currStreakLabel=7C3AED&sideNums=1F2328&sideLabels=59636E&dates=6E7781&stroke=00000000" alt="GitHub contribution streak">
+  </picture>
+</div>
 
 ---
 
-<!-- ====================== QUOTE ====================== -->
-## ✨ &nbsp;Dev Quote
-
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="quote" />
+  <sub>Thanks for stopping by — say hi at <a href="mailto:shubhamkarn164@gmail.com">shubhamkarn164@gmail.com</a></sub>
 </p>
-
-<!-- ====================== FOOTER ====================== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,50:8B5CF6,100:6366F1&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&animation=twinkling&fontAlignY=70" alt="footer"/>
