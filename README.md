@@ -1,9 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg">
-    <img src="assets/header-dark.svg" width="100%" alt="Shubham Karn — Full Stack Developer · AI Engineer · Kathmandu, Nepal">
-  </picture>
+  <img src="assets/banner.svg" width="100%" alt="Shubham Karn — Full Stack Developer · AI Engineer · Kathmandu, Nepal">
 
   <p>
     <a href="https://shubhamkarn.com.np"><b>Portfolio</b></a>
